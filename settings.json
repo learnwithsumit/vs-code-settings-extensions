@@ -22,10 +22,12 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[javascript]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
   "[javascriptreact]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,

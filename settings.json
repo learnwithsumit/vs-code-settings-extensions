@@ -35,7 +35,6 @@
     "source.organizeImports": true
   },
   "eslint.alwaysShowStatus": true,
-  "prettier.disableLanguages": ["javascript", "javascriptreact"],
   //terminal
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.fontWeight": "normal",
